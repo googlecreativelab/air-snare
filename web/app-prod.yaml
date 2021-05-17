@@ -1,0 +1,40 @@
+runtime: python37
+
+service: air-snare-prod
+
+handlers:
+
+  - url: /air-snare/view(/*)?$
+    static_files: public/index.html
+    upload: public/index.html
+    secure: always
+    http_headers:
+      Strict-Transport-Security: "max-age=2592000; includeSubdomains"
+      X-Content-Type-Options: "nosniff"
+      X-Frame-Options: "DENY"
+      X-XSS-Protection: "1; mode=block"
+      Content-Security-Policy:
+        object-src 'none';
+        script-src 'self' 
+          'nonce-347fj326c'
+          'nonce-3958daj3m'
+          https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.v3.js
+          https://www.google-analytics.com/analytics.js
+          https://www.googletagmanager.com/gtag/js;
+
+  - url: /air-snare/view/?
+    static_dir: public
+    secure: always
+    http_headers:
+      Strict-Transport-Security: "max-age=2592000; includeSubdomains"
+      X-Content-Type-Options: "nosniff"
+      X-Frame-Options: "DENY"
+      X-XSS-Protection: "1; mode=block"
+      Content-Security-Policy:
+        object-src 'none';
+        script-src 'self'
+          'nonce-347fj326c'
+          'nonce-3958daj3m'
+          https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.v3.js
+          https://www.google-analytics.com/analytics.js
+          https://www.googletagmanager.com/gtag/js;
