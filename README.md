@@ -62,7 +62,7 @@ Flashing: Using the Arduino Nano Sense 33 BLE
 
 4. Open the sketch and flash
 - Download or clone the [tf4micro motion kit repo](https://github.com/googlecreativelab/tf4micro-motion-kit)
-- Open the **arduino** <folder> and double click on <tinyml-experiment-imu-ble-interface.ino> file
+- Open the **arduino/tf4micro-motion-kit** <folder> and double click on <tf4micro-motion-kit.ino> file
 - Click the Right arrow in the top left corner to build and upload the sketch.  
 ![Arduino Port](/readme_images/buttons.png)
 
