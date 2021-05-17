@@ -18,8 +18,6 @@ These projects were built with the
 
 Other experiments to explore:
 
-- [Astrowand](https://experiments.withgoogle.com/astrowand "Astrowand Google Experiment") lets you draw shapes in the air to form constellations.
-- [Morning Mountain: Visual Alarm Clock](https://experiments.withgoogle.com/visual-alarm-clock "Morning Mountain Google Experiment") lets you stop your alarm clock from ringing by striking a pose.
 - [Finger User Interface or FUI (pronounced Foo-ey)](https://experiments.withgoogle.com/fui "FUI") - lets you control your devices with the wave of a finger.
 - [Tiny Motion Trainer](https://experiments.withgoogle.com/tiny-motion-trainer "Tiny Motion Trainer") lets you train and test machine learning models for your Arduino Nano 33 BLE Sense in the browser.
 ----
@@ -91,10 +89,11 @@ The board that comes with the Tensorflow Microcontroller Challenge Kit by Spark 
 When you’re connecting the board to your computer, a pre-trained Tensorflow Lite machine learning model gets transferred over BLE onto the device. The sketches that are uploaded to the Arduino include a common TensorFlow Lite for Microcontrollers model architecture. The different experiment websites change the behavior of the sketch by changing the model to one specifically made for the experience. 
 
 **What if I’m having issues connecting via bluetooth?**<br/>
-If you are having issues connecting try the following: 
-1. Make sure your browser (Chrome or Edge) supports Bluetooth and it is enabled. . 
-2. Make sure your device (laptop, phone, etc) supports Bluetooth and that it is working and enabled..
-3. Refresh the web page,unplug the Arduino power cable and then plug it back in to reset.  , then try connecting again.
+If you are having issues connecting try the following:
+
+1. Make sure your browser (Chrome or Edge) supports Bluetooth and it is enabled.
+2. Make sure your device (laptop, phone, etc) supports Bluetooth and that it is working and enabled.
+3. Refresh the web page, unplug the Arduino power cable and then plug it back in to reset, then try connecting again.
 
 *NOTE: If you’re using a managed device, like a computer from school or work, your device policy may prevent BLE pairing.*
 
@@ -109,7 +108,7 @@ We made these projects to work specifically with the Arduino Nano, and we curren
 
 **Where should I go from here if I want to make my own model or project?**<br/>
 You can create your own model in several different ways. Check out these links: 
-- [Experiments Collection](https://experiments.withgoogle.com/ "Experiments Collection") - Inspiration and more resources
+- [Experiments Collection](https://experiments.withgoogle.com/collection/tfliteformicrocontrollers/ "Experiments Collection") - Inspiration and more resources
 - [Tiny Motion Trainer](https://experiments.withgoogle.com/tiny-motion-trainer/view "Tiny Motion Trainer") - Code-free motion trainer for microcontrollers
 - [Teachable Machine](https://teachablemachine.withgoogle.com/ "Teachable Machine") - Code-free image model trainer
 - [Tensorflow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers "Tensorflow Lite for Microcontrollers") - Full documentation 
