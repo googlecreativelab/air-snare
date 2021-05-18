@@ -6,7 +6,7 @@
 
 Since 2009, coders have created thousands of experiments using Chrome, Android, AI, WebVR, AR and more. We showcase these projects and a variety of helpful tools and resources to inspire a diverse community of makers to explore, create, and share what’s possible with these technologies.
 
-**Air Snare** is a part of the Tensorflow Microcontroller Experiments, a collection of open source, interactive projects designed to demonstrate some fun ways to combine Arduino and Tensorflow Lite for Microcontrollers. 
+**Air Snare** is a part of the TensorFlow Lite for Microcontroller Experiments, a collection of open source, interactive projects designed to demonstrate some fun ways to combine Arduino and Tensorflow Lite for Microcontrollers. 
 
 These projects were built with the 
 [Arduino Sense 33 BLE](https://store.arduino.cc/usa/nano-33-ble-sense "Arduino Store"), [Tensorflow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers "TFL4M"), standard web technologies ( HTML, CSS & Javascript).
@@ -76,9 +76,9 @@ Flashing: Using the Arduino Nano Sense 33 BLE
 
 ----
 
-## Using the TensorFlow Microcontroller Kit by SparkFun
+## Using the TensorFlow Lite for Microcontrollers Kit by SparkFun
  
-The board that comes with the TensorFlow Microcontroller Kit by SparkFun comes preflashed with a sketch that will work with some of the experiments right out of the box. If you are using one of the “TensorFlow Microcontroller” kits and you just want to jump right into playing with the experiments then you can simply connect your arduino to a power source (USB or Battery) and connect to one of the following experiment URLs:
+The board that comes with the TensorFlow Lite for Microcontrollers Kit by SparkFun comes preflashed with a sketch that will work with some of the experiments right out of the box. If you are using one of the “TensorFlow Lite for Microcontrollers” kits and you just want to jump right into playing with the experiments then you can simply connect your arduino to a power source (USB or Battery) and connect to one of the following experiment URLs:
 - [Air Snare](https://experiments.withgoogle.com/air-snare/view "Air Snare")
 - [Finger User Interface (FUI)](https://experiments.withgoogle.com/finger-user-interface/view "FUI")
 - [Tiny Motion Trainer](https://experiments.withgoogle.com/tiny-motion-trainer/view "Tiny Motion Trainer")
