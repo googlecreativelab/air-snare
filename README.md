@@ -14,11 +14,11 @@ These projects were built with the
 ----
 
 ## Experiment Description
-[Air Snare](https://experiments.withgoogle.com/tiny-motion-trainer "Air Snare") lets you play drums in the air.
+[Air Snare](https://experiments.withgoogle.com/air-snare "Air Snare") lets you play drums in the air.
 
 Other experiments to explore:
 
-- [Finger User Interface or FUI (pronounced Foo-ey)](https://experiments.withgoogle.com/fui "FUI") - lets you control your devices with the wave of a finger.
+- [Finger User Interface or FUI (pronounced Foo-ey)](https://experiments.withgoogle.com/finger-user-interface "FUI") - lets you control your devices with the wave of a finger.
 - [Tiny Motion Trainer](https://experiments.withgoogle.com/tiny-motion-trainer "Tiny Motion Trainer") lets you train and test machine learning models for your Arduino Nano 33 BLE Sense in the browser.
 ----
 
