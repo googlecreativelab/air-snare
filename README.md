@@ -13,7 +13,7 @@ These projects were built with the
 
 ----
 
-## Experiment description
+## Experiment Description
 [Air Snare](https://experiments.withgoogle.com/tiny-motion-trainer "Air Snare") lets you play drums in the air. The webpage then provides a TensorFlow for Microcontrollers model and some sample code to get you started on using the model.
 
 Other experiments to explore:
@@ -25,7 +25,7 @@ Other experiments to explore:
 ## Tools
 
 - Linux, MacOS or Windows computer with [Chrome](https://www.google.com/chrome/?brand=WHAR&geo=US&gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFNRBCVUxmhR1QPA2LHaoELEr9yc1KkSNQ-Jc9KVZd8Sq2ux5gR6mJsaAm_6EALw_wcB&gclsrc=aw.ds "Chrome") installed
-- Tensorflow Microcontroller Challenge Kit by Sparkfun or [Arduino Nano BLE Sense 33](https://store.arduino.cc/usa/nano-33-ble-sense "Arduino Nano")
+- Tensorflow Microcontroller Kit by Sparkfun or [Arduino Nano BLE Sense 33](https://store.arduino.cc/usa/nano-33-ble-sense "Arduino Nano")
 - [Micro USB](https://www.google.com/search?rlz=1C5CHFA_enUS858US858&sxsrf=ALeKk01CbJTvQbYgX6arJbsjcRVmv-3-RQ:1584929968297&q=Micro+USB+cable&spell=1&sa=X&ved=2ahUKEwjl8IOexK_oAhXDqZ4KHZ0mCmcQBSgAegQIDhAn&biw=1680&bih=832 "Micro USB") cable (If you're on a USB-C laptop, instead get a [USB-C to Micro USB](https://www.google.com/search?&q=USB-C+to+Micro+USB+cable "USB-C to Micro USB") cable)
 - Rubberband
 - [Optional] Battery
@@ -61,7 +61,7 @@ Flashing: Using the Arduino Nano Sense 33 BLE
 
 
 4. Open the sketch and flash
-- Download or clone the [tf4micro motion kit repo](https://github.com/googlecreativelab/tf4micro-motion-kit)
+- Download the latest relase of tf4micro motion kit [here](https://github.com/googlecreativelab/tf4micro-motion-kit/releases/latest)
 - Open the **arduino/tf4micro-motion-kit** <folder> and double click on <tf4micro-motion-kit.ino> file
 - Click the Right arrow in the top left corner to build and upload the sketch.  
 ![Arduino Port](/readme_images/buttons.png)
@@ -76,9 +76,9 @@ Flashing: Using the Arduino Nano Sense 33 BLE
 
 ----
 
-## Using the Tensorflow Microcontroller Challenge Kit by Spark Fun
+## Using the TensorFlow Microcontroller Kit by SparkFun
  
-The board that comes with the Tensorflow Microcontroller Challenge Kit by Spark Fun comes preflashed with a sketch that will work with some of the experiments right out of the box. If you are using one of the “Tensorflow Micro Challenge” kits and you just want to jump right into playing with the experiments then you can simply connect your arduino to a power source (USB or Battery) and connect to one of the following experiment URLs:
+The board that comes with the TensorFlow Microcontroller Kit by SparkFun comes preflashed with a sketch that will work with some of the experiments right out of the box. If you are using one of the “TensorFlow Microcontroller” kits and you just want to jump right into playing with the experiments then you can simply connect your arduino to a power source (USB or Battery) and connect to one of the following experiment URLs:
 - [Air Snare](https://experiments.withgoogle.com/air-snare/view "Air Snare")
 - [Finger User Interface (FUI)](https://experiments.withgoogle.com/finger-user-interface/view "FUI")
 - [Tiny Motion Trainer](https://experiments.withgoogle.com/tiny-motion-trainer/view "Tiny Motion Trainer")
