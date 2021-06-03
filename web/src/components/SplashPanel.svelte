@@ -107,7 +107,7 @@ limitations under the License.
           <h3>Getting started</h3>
           <p>
             You need a <a
-              href="https://github.com/googlecreativelab/tf4micro-motion-kit" target="_blank"
+              href="https://github.com/googlecreativelab/tf4micro-motion-kit/releases/latest" target="_blank"
               >TF4Micro Motion Kit</a
             >
             pre-installed on Arduino. To confirm you're good to go, look for the

@@ -48,7 +48,7 @@ limitations under the License.
       <option value={sound}>{sound}</option>
     {/each}
   </Select>
-  <div class="tiny-img" style={`background-image: url(${imgSrc})`} />
+  <div class="tiny-img" style={`background-image: url(${imgSrc})`} role="img" aria-label={label}/>
 </div>
 
 <style lang="scss">
