@@ -163,7 +163,7 @@ limitations under the License.
             </p>
           </div>
           <div class="row">
-            <img class="instruction-image" src="./images/calibrate.gif" /><br
+            <img class="instruction-image" src="./images/calibrate.gif" alt="Hold the board in front of you with the LED facing you." /><br
             /><br />
           </div>
           <div class="row" class:inverted={$onboardingStep === 1}>
